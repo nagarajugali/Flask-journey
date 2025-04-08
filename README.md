@@ -1,2 +1,2 @@
 # Flask-journey
-I will document my flask practicla experience in this repository .
+I will document my flask practical experience in this repository .
